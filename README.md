@@ -7,6 +7,7 @@ Testing adding somewords here.
 
 Summary here:
 Hello summary.
+New feature 3 should go here
 
 
 MORMORMEORMOEMOR
